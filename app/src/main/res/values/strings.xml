@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learning Kotlin</string>
+    <string name="bmi_calculator_title_text">BMI Calculator</string>
+    <string name="please_enter_your_mass_in_kg">Please enter your Mass in KG</string>
+    <string name="please_enter_your_height_in_cm">Please enter your height in CM</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_bmi_is">Your BMI is:</string>
+</resources>
